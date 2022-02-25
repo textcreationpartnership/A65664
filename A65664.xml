@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farther arguments, for passing the bill against the sale of offices humbly offer'd to the House of Lords, as it has pass'd the honourable House of Commons.</title>
+            <author>Whiston, James, 1637?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65664</idno>
+            <idno type="STC">Wing W1686A</idno>
+            <idno type="STC">ESTC R221994</idno>
+            <idno type="EEBO-CITATION">99833234</idno>
+            <idno type="PROQUEST">99833234</idno>
+            <idno type="VID">37709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37709)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2162:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Farther arguments, for passing the bill against the sale of offices humbly offer'd to the House of Lords, as it has pass'd the honourable House of Commons.</title>
+                  <author>Whiston, James, 1637?-1707.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By James whiston, whose name appears in the text.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Appealing for the cessation of sale of public offices.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Political corruption --  England --  Early works to 1800.</term>
+               <term>Sale of public office --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37709:1" rendition="simple:additions"/>
+            <head>Farther Arguments, FOR <hi>Paſſing the</hi> BILL AGAINST The Sale of Offices, <hi>Humbly Offer'd to the</hi> Houſe of LORDS, <hi>as it has Paſs'd the Honourable</hi> Houſe of COMMONS.</head>
+            <p>WHEREAS <hi>JAMES WHISTON</hi> has ſet forth the <hi>Calamities of En<g ref="char:EOLhyphen"/>gland</hi> in the ſeveral Pernicious Effects, Occaſioned by the <hi>Sale</hi> of Offices, <hi>&amp;c.</hi> And has more particularly Levell'd the Subject of his Diſcourſe, at the Cor<g ref="char:EOLhyphen"/>ruption, Oppreſſion, and Male-Adminiſtration of, and in the City of <hi>London,</hi> through her preſent unjuſt and Arbitrary <hi>Sale</hi> of Offices; And ſome Papers having been ſince publiſh'd in Vindication of the great Truths he has Aſſerted: And alſo, the <hi>Ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons</hi> having, in their great Wiſdom, Paſs'd a <hi>Bill</hi> accordingly, now lying before the <hi>Houſe of Lords,</hi> for Redreſſing that Univerſal Grievance; Upon which ſome of the <hi>Magiſtrates of London,</hi> and other Favourers of a Bad Cauſe, have, in defence of the Mercinary diſpoſal of Offices, Put in their Petition, and Engag'd their uttermoſt Intereſt againſt the Paſſing of the ſaid <hi>Bill;</hi> which being not able to Effect, they ſtill, as true Champions for the ſaid Publick <hi>Sales,</hi> and conſequently all the Oppreſſions that attend them, endeavour to defeat the good Intentions of the <hi>Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons</hi> in their ſaid <hi>Bill,</hi> labouring to Check its Force and Vertue by clogging it with uſeleſs <hi>Riders,</hi> and reſtrictive and pernicious Limitations to excuſe Themſelves.</p>
+            <p>THESE Farther Arguments are therefore humbly offered for enforcing the Reaſona<g ref="char:EOLhyphen"/>bleneſs of paſſing the <hi>Bill,</hi> and more particularly to Expoſe the injuſtice of their endea<g ref="char:EOLhyphen"/>vours who wou'd Obſtruct it.</p>
+            <p>THE <hi>Sale</hi> of all Offices belonging to the <hi>City</hi> of <hi>London,</hi> is ſuppoſed to amount to near 180000 Pounds: Now (take all the Offices, greater and leſs together) they are bought at about Three years Purchaſe. And conſequently with the honeſt diſcharge of their Seve<g ref="char:EOLhyphen"/>ral Poſts, there is about 60000 Pounds <hi>per Annum</hi> to be Advanced to pay their Purchaſe-Money; but as 'tis notoriouſly known, that moſt of theſe Purchaſers get Eſtates (many of 'em conſiderable ones;) So 'tis not at all to be doubted but that, one with the other, they get more than double the Summ of 60000 Pounds <hi>per Annum,</hi> and all this by a General <hi>Extortion</hi> from the Peoples Purſes, occaſioned wholly by ſuch <hi>Sales,</hi> that both encourage that general Oppreſſion and indemnifie the Oppreſſour; when the <hi>Magiſtracy</hi> that otherwiſe ſhould redreſs and puniſh all <hi>Extortions,</hi> is now obliged to indulge &amp; favour them, only that they may have opportunity to enrich themſelves by an univerſal Spoil and Depredation (for ſuch are the Effects of the Sales) chiefly <hi>Rapin'd</hi> from the Poor; It being inconſiſtent both with the Juſtice and Prudence of all <hi>Governments</hi> that the <hi>Pub<g ref="char:EOLhyphen"/>lick</hi> ſhould be ſacrinced to <hi>Private</hi> Intereſt.</p>
+            <p>HOW hard this Load muſt lie, even upon the <hi>Pooreſt,</hi> may be ſeen in the preſent ex<g ref="char:EOLhyphen"/>acted Price of the Fifteen <hi>Coal-meeters</hi> and Ten <hi>Corn-meeters</hi> Places. The firſt at 1700 Pounds each, and the latter at 1300 Pounds, amounting in all to 38500 Pounds. Now how muſt the exceſſive Purchaſe-Mony of near 40000 Pounds be anſwer'd, but by an ex<g ref="char:EOLhyphen"/>traordinary and inhumane <hi>Tax</hi> (if We may ſo call, with ſubmiſſion, a down-right
+<pb n="2" facs="tcp:37709:2"/>and bare-fac'd <hi>Oppreſſion</hi>) upon the very Bread that goes into the mouths of the Pooreſt Beggars, and upon the fire that warms them in their Raggs and Nakedneſs? Thus the Common Fruits of the Earth and the Elements themſelves muſt be Fin'd to maintain the Riot and Luxury of Oppreſſion and Tyrannical Extortion. Beſides, theſe Two very Offices, with two Thirds more in the City, are ſuperfluous, being the Creatures of the <hi>Chair,</hi> (and of no neceſſary and Legitimate Production) ſave only Paying ſuch round Summs for bare titular Employments, they are thereby connivd at, in Impoſing ſuch Arbitrary Taxes upon the Subject to Re-imburſe their Purchaſe-Money.</p>
+            <p>OF the ſame Stamp is the Office of the <hi>Lord Mayor</hi>'s Six <hi>Young Men</hi> ſo call'd, who pay about 600 Pounds a piece for their Places; which, as they are manag'd, have no Founda<g ref="char:EOLhyphen"/>tion either in Neceſſity or Reaſon. Where a parcel of luſty Fellows, hire themſelves with great Summs of Money to walk about the Markets, and ſhould prevent the Sale of de<g ref="char:EOLhyphen"/>fective Victuals, <hi>&amp;c.</hi> and detect all falſe Weights and Meaſures <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and rectifie Com<g ref="char:EOLhyphen"/>mon Annoyances and Grievances in the Streets, <hi>&amp;c.</hi> which if they were-ſo juſtly Re<g ref="char:EOLhyphen"/>formed as they might be, it would deprive them of making any thing near the Value of the Money they paid for their Places, which can be readvanced no other way than by their being in Fee with the Perſons by whom 'tis ſuppoſed thoſe Nuſances and Abuſes muſt be Committed; So that it neceſſarily infers a Connivance and Toleration of what they are Commiſſion'd to Suppreſs and-Remedy. In fine, the Channel of Common Juſtice is miſerably obſtructed by the Sale of Offices and their Dependancies.</p>
+            <p>AS for Inſtance; He that ſues in the City Courts, tho' for a Juſt debt of Three or Four Pounds, ſtands obliged (meerly by the Depravity of Cuſtom in the Particulars complain'd of) to pay larger Fees than the Law will allow him back again in Coſts, by which means the Creditor loſes one Pound to recover three, poſſibly twice as much as he gets by the honeſt Sale of his Goods when he is paid; nor is the Oppreſſion leſs on the Defen<g ref="char:EOLhyphen"/>dants ſide: So that the very Law that ſhould give Relief, is render'd a meer Snare and Inſtrument of Oppreſſion: And all this purely owing to the aforeſaid Sales; for other<g ref="char:EOLhyphen"/>wiſe the ſeveral Officers would be Contented with their reſpective <hi>Legal</hi> Fees, or at leaſt be kept (by the Authority of the Magiſtrate) within thoſe Bounds as ſhould totally Check all Exactions: For 'tis not Propoſed that any Perſon's Merit ſhall Recommend him to a Place, and then Countenance him in Demanding extravagant Fees for doing his Duty; but that all things be limited to ſuch a Regulation as the <hi>Common-Hall</hi> ſhall think fit; which would abundantly tend to the Eaſe and Satisfaction of the Subject. For 'tis highly worth our Conſideration, That this Corruption is ſo far from being counte<g ref="char:EOLhyphen"/>nanc'd by the general Inclination of the <hi>City,</hi> that the <hi>Common-Council</hi> have been often Deſirous to make Laws againſt it, and have only been Obſtructed and Over-power'd by the <hi>Chair.</hi>
+            </p>
+            <p>IF it be Objected that the <hi>Mayoralty</hi> and <hi>Shrievalties</hi> require any ſuch Perquiſites, as the ſaid Sales, for keeping up the Grandeur of the <hi>Chair,</hi> &amp;c. In Anſwer to that feeble Pre<g ref="char:EOLhyphen"/>tenſion, It is humbly Reply'd, That the Allegation is not True; for the <hi>Mayor</hi> has above 3000 Pounds <hi>per Annum</hi> incident to the <hi>Mayoralty,</hi> and the <hi>Sheriffs</hi> about 1000 Pounds <hi>per Annum,</hi> beſides Fines and Felon's Goods, which frequently amount to above three times as much. Moreover, It is notoriouſly evident, that the greateſt Part of the for<g ref="char:EOLhyphen"/>mer City-Feaſtings are now, by Themſelves, laid aſide: Inſomuch that it appears an ir<g ref="char:EOLhyphen"/>reconcilable Piece of Injuſtice, that they ſhould Sell ſo many Offices; nay, and for higher Prices, and yet take ſuch Provident Care, that the Expence of their Grandeur, Hoſpita<g ref="char:EOLhyphen"/>lity and Charge, ſhou'd dwindle and leſſen almoſt to nothing. However, if any ſuch Extravagance were requiſite to maintain the City's Honour, <hi>&amp;c.</hi> Wou'd it not be more Reaſonable and Humane to raiſe ſuch Monies by a General Tax upon the City, than to ſqueeze it from the ſmall Remains of the Unfortunate? In ſhort, if the Sale of Offices were wholly rooted out, it is hardly to be imagin'd, what infinite Summs might be ſa<g ref="char:EOLhyphen"/>ved by it, ſeeing that upon a Computation of the Exactions, through the whole King<g ref="char:EOLhyphen"/>dom, occaſion'd purely by Mercenary Adminiſtrations of numerous and ſeveral unne<g ref="char:EOLhyphen"/>ceſſary Officers, We may reaſonably Venture to affirm, That there is more Money drain'd on that very Account, through the whole Body of the Nation in one year, than would half pay the largeſt Tax that has been yet levied for Carrying on the War. And of this we are certain, That nothing can more Illuſtrate the Glory and Wiſdom of our <hi>Patriots</hi> at the Helm, than to do Juſtice to the <hi>Publick,</hi> in utterly Prohibiting the Sale of all man<g ref="char:EOLhyphen"/>ner of Offices, eſpecially at this Time; For it ſeems a little hard, that <hi>Two</hi> Hands ſhou'd draw from one Pocket. That when with one Chearful Hand we are ſo heartily and largely Contributing towards the Defence of our Country and Liberties, this Pick-pocket Thief, call'd <hi>Extortion,</hi> ſhou'd dive ſo deeply into our Purſes.</p>
+            <p>THIS deſired Retrenchment wou'd make Publick Offices become the Reward of Me<g ref="char:EOLhyphen"/>rit and Vertue, to the utter Confuſion and everlaſting Diſcouragement of that general and crying Vice of <hi>Extortion</hi> which now reigns amongſt us, from that <hi>Peſt</hi> of the Nation who buy their Places, only to Enrich themſelves, and Prey upon their Neighbours.</p>
+            <pb n="3" facs="tcp:37709:2"/>
+            <p>WE ſhall Conclude with ſome ſhort Reflections on the Weakneſs of their Cauſe who endeavour to defend their Arbitrary City-Marts and Markets of Places, Truſt, and Power; when they have never ventur'd to anſwer (as indeed being unable ſo to do) the juſt Com<g ref="char:EOLhyphen"/>plaints publiſh'd by <hi>JAMES WHISTON,</hi> which were in ſo high a meaſure the Foundation of Bringing in the ſaid <hi>Bill,</hi> and have only had the Confidence of expoſing a Paper, induſtriouſly handed only to ſome few Noble Friends, called, <hi>The Caſe of the Lord Mayor and Aldermen of the City of LONDON, in Relation to continue the Sale of Offices in the ſaid City.</hi> Which was ſince juſtly rejected by the <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe</hi> of <hi>Lords;</hi> the greateſt Con<g ref="char:EOLhyphen"/>tents whereof, we leave to any Judicious Reader to examine of what notorious Falſities they are compoſed, it being a ſtrong Argument of a deſpairing Cauſe, that <hi>wants</hi> Un<g ref="char:EOLhyphen"/>truths, and of harden'd Advocates that <hi>make uſe</hi> of them, in their Vindication.</p>
+            <p>HOWEVER, They have this Advantage, that they carry their Plea with a very high Hand, making uſe of all their ſtrongeſt Private Intereſt, and ſtrong Purſe. <hi>viz,</hi> in Lear<g ref="char:EOLhyphen"/>ned <hi>Council,</hi> Florid Arguments, High Sollicitations, <hi>&amp;c.</hi> When on the other ſide, the Adverſe Party againſt them (under no Motive of Malice, or any Hopes of Reward, or Self-Intereſt whatever, but purely for the Good of his Country) with none of all theſe Aids, comes wholly Naked to the Field, with only the <hi>Pebble from the Brook</hi> called <hi>Truth.</hi> to combate the <hi>Goliah.</hi> So that upon the whole Matter, <hi>viz.</hi> the earneſt and univerſal Deſires of the People on the one Hand, to have the <hi>Bill</hi> againſt the Sale of Offices to paſs both Houſes, and the indefatigable and reſtleſs Induſtry of ſome of the City Ma<g ref="char:EOLhyphen"/>giſtrates and Officers on the other, to obſtruct and oppoſe it, is very obſervable. What ſhould be the Reaſon of theſe two contrary Endeavours? Certainly they muſt ſpring from Ends, as different in their Natures, as they are oppoſite in their Actions. In ſhort 'tis this, The One only begs Relief under an unjuſt and inſupportable Affliction; The Other uſe all their Artifice to ſupport an unjuſt Poſſeſſion. The one requeſts only to be ſe<g ref="char:EOLhyphen"/>cured in their Legal Rights, and Native Liberties; The Other to be conniv'd at in unlaw<g ref="char:EOLhyphen"/>ful Uſurpations and Invaſions. The One Petitions only for the Re-Eſtabliſhment of ba<g ref="char:EOLhyphen"/>niſht Equity and Juſtice; The Other contends for Riches and Profit, with full-Mouth <hi>crying up</hi> the Great <hi>Diana</hi> of Avarice and Corruption, upon which alone all their Hopes and Expectations do intirely depend. This Party pluming it ſelf in the Confidence of hired Friends, and <hi>Rhetorical</hi> Expreſſions; And that, relying ſolely on the Merits of the Cauſe, and Favour of Honeſt Men. Tho' Truth is always modeſt, yet at laſt ſhe will be Victorious. She may indeed be Over-powered, but ca<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ver be Subdued. Strong Lines and fine coucht Periods may Miſ-repreſent her, but ſhe can never be Corrupted. She may be Diſguiſed, but cannot be Deformed.</p>
+            <p>ONE Argument us'd by their Learned Advocates againſt the Reaſonableneſs and Juſtice of this ſo much deſired <hi>Bill,</hi> is of ſo quaint a Contexture, and of ſo unaccountable Conſe<g ref="char:EOLhyphen"/>quence, that it can no means be paſſed by, without ſome ſmall Remark. Among many learned Obſervations and Deductions from the P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>miſes, the Gentlemen were pleaſed to affirm, <hi>That the Sale of Places, is ſo far from being a Temptation and Inducement to Corruption and Exaction; that the very giving of</hi> Money, <hi>is a</hi> double Caution <hi>upon the Perſon</hi> Buying, <hi>that he ſhall behave himſelf in his Office,</hi> more <hi>Honeſtly and <g ref="char:V">Ʋ</g>prightly,</hi> &amp;c. Now, we ſhould be very glad to know in what Age, and what Part of the World this Notion was hatchd. All Governments, in all times, have Condemn'd and Forbid it, as fully appears in the above-mentioned Book; Nay, ſome of our very City-Magiſtrates and Officers, that now Stickle ſo much againſt the <hi>Bill,</hi> before they came into Office, uſed to Convert all the <hi>Wit</hi> they were Owners of into <hi>Satyr,</hi> on Purpoſe to have a Laſh at the Toleration of the Abominable Practice here complain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of. We confeſs 'tis a ſingular Thought, and be<g ref="char:EOLhyphen"/>yond Comprehenſion: 'Tis certain, there is no Enemy to the Government in <hi>England,</hi> that has Money in his Pocket, and deſpairs of King <hi>James</hi>
+               <g ref="char:punc">▪</g>s Return, but ought to Em<g ref="char:EOLhyphen"/>brace it, and return Thanks for the Information; And conſequently demand a <hi>Legal</hi> En<g ref="char:EOLhyphen"/>trance into: Truſt, upon that only Qualification, <hi>viz.</hi> of Paying his Money; For if <hi>Pur<g ref="char:EOLhyphen"/>chaſing</hi> be a <hi>Double Caution,</hi> as theſe <hi>Sticklers</hi> ſuggeſt, there is no Need at all of an Oath of <hi>Fidelity,</hi> &amp;c,</p>
+            <p>BUT we have a better Opinion of theſe Gentlemen's great Abilities, than to believe it could ever enter into their Minds, that ſuch Arguments, ſhould in the leaſt prejudice ſo Juſt and Reaſonable a <hi>Bill,</hi> in the Judgment of Perſons, ſo Honourable and Diſcerning, as thoſe Noble <hi>Lords,</hi> to whom the Harangue was Addreſt. Thus <hi>Eraſmus</hi> wrote a Book in <hi>Praiſe</hi> of <hi>Folly;</hi> not that he intended to perſuade Mankind, that 'twas a deſirable Thing to be out of their Wits, and turn Fools: But ('tis preſum'd, with the ſame deſign, as theſe Gentlemen made their Speech) to ſhow his own Parts, and expoſe a <hi>Common Vice.</hi> But how Vigorouſly ſoever, the Learned Gentlemen of the <hi>Long Robe</hi> behav'd themſelves at the <hi>Lords</hi> Bar, in behalf of their City <hi>Clients;</hi> yet being ask'd in the <hi>Lobby,</hi> by their Opponent <hi>WHISTON,</hi> With what Confidence, Men of their Honour, Reputation, and Integrity, could ſo far Prevaricate with their Conſciences, as to Obtrude ſuch ſhameful Falſities, Sophiſtry, and Amuſement, for Truth, Reaſon, and Argument; they very inge<g ref="char:EOLhyphen"/>nuouſly made Anſwer, That they Argued as <hi>Counſellors,</hi> not as <hi>Chriſtians.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="text">
+            <pb facs="tcp:37709:3"/>
+            <p>
+               <hi>Farther Arguments</hi> FOR THE BILL, AGAINST The Sale of OFFICES, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
